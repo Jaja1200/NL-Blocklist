@@ -1,4 +1,3 @@
-# NL-BE-Third-Party-Trackers-Ads-Blocklist-
 # NL/BE Third-Party Trackers & Ads Blocklist
 
 Een compacte lijst (~200 domeinen) met veelvoorkomende third-party trackers, advertenties, analytics en fingerprinting-domeinen die vaak op Nederlandse en Belgische sites voorkomen (nieuws zoals AD.nl, Volkskrant, RTL, Videoland, webshops etc.).
@@ -10,7 +9,9 @@ Een compacte lijst (~200 domeinen) met veelvoorkomende third-party trackers, adv
 - Gebaseerd op netwerk-scans in 2026.
 
 **Hoe gebruiken?**  
-- **Pi-hole / AdGuard Home**:   
+- **Pi-hole / AdGuard Home**: Voeg deze URL toe als blocklist:  
+  https://raw.githubusercontent.com/Jaja1200/NL-BE-Third-Party-Trackers-Ads-Blocklist-/refs/heads/main/peetjesblocklist.txt
+  (of hosts.txt voor 0.0.0.0-formaat)  
 - **uBlock Origin**: Importeer als custom filter (of converteer naar ABP-stijl).  
 - **Andere tools**: Kopieer de domeinen handmatig.
 
