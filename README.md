@@ -10,9 +10,7 @@ Een compacte lijst (~200 domeinen) met veelvoorkomende third-party trackers, adv
 - Gebaseerd op netwerk-scans in 2026.
 
 **Hoe gebruiken?**  
-- **Pi-hole / AdGuard Home**: Voeg deze URL toe als blocklist:  
-  https://raw.githubusercontent.com/JOUWUSERNAME/nl-be-trackers-blocklist/main/domains.txt  
-  (of hosts.txt voor 0.0.0.0-formaat)  
+- **Pi-hole / AdGuard Home**:   
 - **uBlock Origin**: Importeer als custom filter (of converteer naar ABP-stijl).  
 - **Andere tools**: Kopieer de domeinen handmatig.
 
