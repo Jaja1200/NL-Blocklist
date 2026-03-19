@@ -1,4 +1,4 @@
-Een compacte lijst (~200 domeinen) met veelvoorkomende third-party trackers, advertenties, analytics en fingerprinting-domeinen die vaak op Nederlandse en Belgische sites voorkomen (nieuws zoals AD.nl, Volkskrant, RTL, Videoland, webshops etc.).
+ Een compacte lijst (~200 domeinen) met veelvoorkomende third-party trackers, advertenties, analytics en fingerprinting-domeinen die vaak op Nederlandse en Belgische sites voorkomen (nieuws zoals AD.nl, Volkskrant, RTL, Videoland, webshops etc.).
 
 Waarom deze lijst?
 
@@ -22,7 +22,7 @@ Social Media Pixels
 IP Geolocation & Fingerprinting
 NL/BE-specifiek (DPG, Sanoma, Talpa etc.)
 
-Instagram & Snapchat blijven gewoon werken
+Instagram, Snapchat, Google/Youtube etc blijven gewoon werken
 Met deze blocklist blijven Instagram en Snapchat normaal functioneren (feed, stories, snaps, login etc.) zonder dat je extra iets hoeft te doen of whitelists toe te voegen.
 
 Werkt ook op iPhone/iPad met Lockdown app
