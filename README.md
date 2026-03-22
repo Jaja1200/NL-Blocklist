@@ -1,4 +1,4 @@
- Een compacte lijst (~200 domeinen) met veelvoorkomende third-party trackers, advertenties, analytics en fingerprinting-domeinen die vaak op Nederlandse en Belgische sites voorkomen (nieuws zoals AD.nl, Volkskrant, RTL, Videoland, webshops etc.).
+ Een compacte lijst (~300 domeinen) met veelvoorkomende third-party trackers, advertenties, analytics en fingerprinting-domeinen die vaak op Nederlandse en Belgische sites voorkomen (nieuws zoals AD.nl, Volkskrant, RTL, Videoland, webshops etc.).
 
 Waarom deze lijst?
 
